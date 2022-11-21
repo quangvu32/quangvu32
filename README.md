@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
-Coding is love, coding is life
+Coding is love, coding is life \n
 But when errors arrived, goodbye.
 <!---
 quangvu32/quangvu32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
