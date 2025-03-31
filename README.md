@@ -1,4 +1,4 @@
-## Hi 👋, I'm Nguyen Quang Vu 
+# Hi 👋, I'm Nguyen Quang Vu 
 ### Forth-year student at University of Information Technology
 
 A passionate AI learner from Vietnam
