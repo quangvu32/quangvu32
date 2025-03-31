@@ -17,10 +17,10 @@ A passionate AI learner from Vietnam
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/quangvu32/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangvu32&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)](https://github.com/quangvu32/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangvu32&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=quangvu32&theme=dark)](https://git.io/streak-stats)
