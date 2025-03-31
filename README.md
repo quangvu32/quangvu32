@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e9624cd8-1889-4c9d-a4bf-5205dd8c4077)## Hi 👋, I'm Nguyen Quang Vu 
+## Hi 👋, I'm Nguyen Quang Vu 
 ### Forth-year student at University of Information Technology
 
 A passionate AI learner from Vietnam
@@ -13,7 +13,7 @@ A passionate AI learner from Vietnam
 ![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![Linux](https://img.icons8.com/?size=100&id=37823&format=png&color=000000)
+![Linux](https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000)
 ![TensorFlow](https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000)
 
 ### Most Used Languages
