@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/46610a65-f8c8-49b1-9d12-780bf702a73c)![image](https://github.com/user-attachments/assets/61a34eb9-643d-45c2-b531-3081aafbbfec)## Hi 👋, I'm Nguyen Quang Vu 
+![image](https://github.com/user-attachments/assets/e9624cd8-1889-4c9d-a4bf-5205dd8c4077)## Hi 👋, I'm Nguyen Quang Vu 
 ### Forth-year student at University of Information Technology
 
 A passionate AI learner from Vietnam
@@ -10,11 +10,11 @@ A passionate AI learner from Vietnam
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-nguy%E1%BB%85n-quang-26b706247/)
 
 ### Languages and Tools:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
+![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![Linux](https://img.icons8.com/?size=100&id=37823&format=png&color=000000)
+![TensorFlow](https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangvu32&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
