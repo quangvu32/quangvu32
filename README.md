@@ -1,4 +1,4 @@
-## Hi 👋, I'm Nguyen Quang Vu 
+![image](https://github.com/user-attachments/assets/46610a65-f8c8-49b1-9d12-780bf702a73c)![image](https://github.com/user-attachments/assets/61a34eb9-643d-45c2-b531-3081aafbbfec)## Hi 👋, I'm Nguyen Quang Vu 
 ### Forth-year student at University of Information Technology
 
 A passionate AI learner from Vietnam
@@ -11,7 +11,7 @@ A passionate AI learner from Vietnam
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
