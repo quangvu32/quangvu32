@@ -1,26 +1,18 @@
-# Hi 👋, I'm Nguyen Quang Vu 
-### Forth-year student at University of Information Technology
+# 💫 About Me:
+Hi 👋, I'm Nguyen Quang Vu <br>Computer Science major, graduated from University of Information Technology<br><br>A passionate AI learner from Vietnam<br><br>- 🌱 I'm currently learning Computer Vision & NLP fields<br>- 📍 How to reach me: quangvu2697@gmail.com<br>
 
-A passionate AI learner from Vietnam
 
-- 🌱 I'm currently learning Computer Vision & NLP fields
-- 📍 How to reach me: quangvu2697@gmail.com
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/v%C5%A9-nguy%E1%BB%85n-quang-26b706247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quangvu2697@gmail.com) 
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-nguy%E1%BB%85n-quang-26b706247/)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=quangvu32&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=quangvu32&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=quangvu32&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Languages and Tools:
-![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
-![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![Linux](https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000)
-![TensorFlow](https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000)
+---
+[![](https://komarev.com/ghpvc/?username=quangvu32&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangvu32&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangvu32&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=quangvu32&theme=dark)](https://git.io/streak-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
